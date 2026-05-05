@@ -1,9 +1,7 @@
 # 📺 LuminaStream: End-to-End Product Analytics Pipeline
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=for-the-badge&logo=mixpanel&logoColor=white)
 ![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white)
 
 ## 📌 Project Overview
@@ -14,7 +12,6 @@ As a Product Analyst, the goal of this project was to generate a realistic produ
 ## 🛠️ The Tech Stack
 * **Data Generation:** Python, Polars (`uuid`, `json`, `random`)
 * **Data Warehousing:** Google BigQuery (Partitioning, Clustering)
-* **API Ingestion:** Python (`requests`)
 * **BI & Visualization:** Google Looker Studio
 
 ---
